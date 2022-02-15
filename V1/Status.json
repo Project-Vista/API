@@ -1,0 +1,15 @@
+{
+    "Colors":
+    {
+        "Green":"#69CC66",
+        "Red":"#E74C3C",
+        "Yellow":"#F8D45A"
+    },
+    "DetectionStatus":"Undetected",
+    "DetectionStatus-Color":"Green",
+    "ApiStatus":"Operational",
+    "ApiStatus-Color":"Green",
+    "WebsiteStatus":"Green",
+    "WebsiteStatus-Color":"Green",
+    "IssueReport":"https://www.youtube.com/watch?v=YSzOXtXm8p0"
+}
