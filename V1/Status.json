@@ -9,7 +9,7 @@
     "DetectionStatus-Color":"Green",
     "ApiStatus":"Operational",
     "ApiStatus-Color":"Green",
-    "WebsiteStatus":"Green",
+    "WebsiteStatus":"Operational",
     "WebsiteStatus-Color":"Green",
     "IssueReport":"https://www.youtube.com/watch?v=YSzOXtXm8p0"
 }
