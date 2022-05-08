@@ -39,4 +39,32 @@
         "EN":"Key Is Invalid! Make Sure You Typed It In Correctly",
         "AR":"المفتاح غير صالح! تأكد من كتابته بشكل صحيح"
      },
+     "LoginPageUseKey":{
+      "EN":"Use Key",
+      "AR":"استخدم المفتاح"
+   },
+   "LoginPageFreeKey":{
+      "EN":"Get A Free Key",
+      "AR":"احصل على مفتاح مجاني"
+   },
+   "LoginPageDiscord":{
+      "EN":"Discord",
+      "AR":"الخلاف"
+   },
+   "LoginPageInputKey":{
+      "EN":"Please Input Your Key Below:",
+      "AR":"الرجاء إدخال مفتاحك أدناه:"
+   },
+   "TermsOfServiceWarning":{
+      "EN":"Terms Of Service Will Not Be Translated It Is Your Responsibility To Translate It",
+      "AR":"لن تتم ترجمة شروط الخدمة ، وتقع على عاتقك مسؤولية ترجمتها"
+   },
+   "TermsOfServiceButton":{
+      "EN":"Accept",
+      "AR":"قبول"
+   },
+   "StartButton":{
+      "EN":"Start Rust",
+      "AR":"ابدأ في الصدأ"
+   },
 }
