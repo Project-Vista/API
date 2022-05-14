@@ -11,7 +11,6 @@ Watch [Our Installation Guide](https://google.com/)
 ## Authors
 
 - [@Wslt](https://github.com/CodeWslt)
-- [@Smoontie](https://github.com/smoontiez)
 
 ## Copyright
 
